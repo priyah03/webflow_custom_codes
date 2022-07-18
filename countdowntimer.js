@@ -1,4 +1,4 @@
-Countdown Timer
+/* Countdown Timer
 *Note:
 Timer wrapper ID: clockdiv
 individual timer text block classes: (can be a combo as well)
@@ -7,7 +7,7 @@ individual timer text block classes: (can be a combo as well)
 .minutes
 .seconds
 Place the below code before the body tag: footer.
-————————————————————————————————————
+———————————————————————————————————— */
 <script>
 function getTimeRemaining(endtime) {
  const total = Date.parse(endtime) - Date.parse(new Date());
