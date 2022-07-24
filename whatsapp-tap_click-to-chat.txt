@@ -1,0 +1,11 @@
+/* There are different links for desktop and mobile */
+
+//for desktops: phone number wihout any spaces
+
+https://web.whatsapp.com/send?phone=+15823330444
+
+
+
+//for mobile: phone number without any spaces
+
+https://api.whatsapp.com/send?phone=+15823330444
