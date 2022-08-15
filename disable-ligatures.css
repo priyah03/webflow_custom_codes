@@ -1,0 +1,10 @@
+<style>
+/* Disable Ligature for the entire website */
+* {
+font-variant-ligatures: none;
+}
+/* Disable Ligature for a specific selector */
+.class-name {
+font-variant-ligatures: none;
+}
+</style>
