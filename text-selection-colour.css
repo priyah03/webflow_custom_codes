@@ -1,0 +1,10 @@
+/*Text Selection Color*/
+
+<style>
+::selection {
+ background: #173686; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+ background: #173686; /* Gecko Browsers */
+}
+</style>
