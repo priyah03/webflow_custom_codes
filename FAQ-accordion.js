@@ -12,4 +12,5 @@ $('[data-click="faq"]').click(function(){
   }
 });
 </script>
+
 <!--END-Cloneable Custom Code-->
