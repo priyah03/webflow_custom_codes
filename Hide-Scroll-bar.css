@@ -1,0 +1,14 @@
+<style type="text/css">
+body {
+  -webkit-font-smoothing: antialiased;
+}
+     /* Hide Horizontal Scrollbar on Auto scroll carousel */
+  .Subnav-Container::-webkit-scrollbar{
+   		 width: 0px;  /* Remove scrollbar space */
+   		 background: transparent;  /* Optional: just make scrollbar invisible */
+		}
+.w-select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+</style>
