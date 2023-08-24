@@ -1,4 +1,4 @@
-!-- :blue_heart: MEMBERSCRIPT #65 v0.1 :blue_heart: EXIT INTENT POPUP -->
+!-- EXIT INTENT POPUP -->
 <script>
 const CookieService = {
     setCookie(name, value, days) {
